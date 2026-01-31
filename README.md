@@ -1,5 +1,5 @@
 # Projects
-End-to-End Analytics Using Excel, SQL, Python &amp; Power BI
+Heart Disorder Using Excel(importing), Power Query(Cleaning) Power BI(Measures & Visualisation)
 # ❤️ Heart Disorder Analysis Dashboard
 
 ## 📖 Overview
