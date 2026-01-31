@@ -1,6 +1,10 @@
 # Projects
-Heart Disorder Using Excel(importing), Power Query(Cleaning) Power BI(Measures & Visualisation)
 # ❤️ Heart Disorder Analysis Dashboard
+This project demonstrates an **end-to-end data analysis workflow** using multiple tools:
+- **Excel** → Importing the raw dataset
+- **Power Query** → Cleaning and transforming the master dataset
+- **Power BI** → Creating measures and building interactive visualizations
+
 
 ## 📖 Overview
 This repository contains a **Heart Disorder Analysis Dashboard** built to explore health and lifestyle factors influencing coronary heart disease (CHD).  
@@ -49,6 +53,23 @@ The project leverages data from **3,000 patients** and provides insights into ge
 | Heart_Disorder      | Healthy / Affected                               |
 
 ---
+## 🔹 Workflow 
+1. **Excel (Importing)** 
+    - Patient health records imported from CSV/Excel files. 
+    - Initial exploration of raw data.
+2. **Power Query (Cleaning)**
+      - Removed duplicates and null values.
+      - Standardized categories (e.g., BP levels, stress levels, cholesterol status). 
+      - Derived **3 analytical datasets** from the master dataset for focused analysis.
+3. **Power BI (Measures & Visualization)**
+    - Created DAX measures (e.g., On-Time Delivery %, Heart Disorder Rate).
+    - Built dashboards with charts for:
+       - Heart disorder by gender
+       - BP category distribution
+       - Stress level impact
+       - Lifestyle factors (exercise, smoking, alcohol)
+    - Published interactive reports for decision-making.
+
 <img width="1347" height="902" alt="Heard Disorder Dashboard-1" src="https://github.com/user-attachments/assets/38106582-0b03-4bc0-ac88-8f64db15c53f" />
 <img width="1343" height="902" alt="Heard Disorder Dashboard-2" src="https://github.com/user-attachments/assets/7ab8127e-3f78-4480-82b6-c8a7074736f7" />
 <img width="1072" height="786" alt="Heard Disorder Dashboard-3" src="https://github.com/user-attachments/assets/5b72a849-f261-4910-b018-f936baab6bd1" />
