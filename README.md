@@ -1,4 +1,5 @@
-# Projects
+# PROJECTS
+## Project:1 (Excel & Power BI)
 # ❤️ Heart Disorder Analysis Dashboard
 This project demonstrates an **end-to-end data analysis workflow** using multiple tools:
 - **Excel** → Importing the raw dataset
@@ -74,6 +75,50 @@ The project leverages data from **3,000 patients** and provides insights into ge
 <img width="1343" height="902" alt="Heard Disorder Dashboard-2" src="https://github.com/user-attachments/assets/7ab8127e-3f78-4480-82b6-c8a7074736f7" />
 <img width="1072" height="786" alt="Heard Disorder Dashboard-3" src="https://github.com/user-attachments/assets/5b72a849-f261-4910-b018-f936baab6bd1" />
 
+---
+## Project:2 (SQL & Power BI)
+# 📊 E-Learning Platform Analysis Dashboard 
+## Overview 
+- This project provides a comprehensive **Power BI / Data Analytics dashboard** for monitoring and analyzing the performance of an online learning platform. It highlights key metrics such as course purchases, learner demographics, revenue generation, and category-wise insights.
+---
+## Features 
+- **Top Metrics**
+  - Purchased vs. Unpurchased Courses
+  - Total Learners and Courses
+  - Total Revenue
+- **Learner Demographics**
+  - Distribution of learners by country (USA, India, UK, Australia, etc.)
+- **Revenue Insights**
+  - Highest revenue-generating courses (e.g., Cybersecurity Basics, Data Science with Python)
+  - Revenue hierarchy by year
+  - Revenue by category (Security, Cloud, DevOps, etc.)
+- **Course Engagement**
+  - Course-wise learner count
+  - Category-wise course distribution
+  - Learner acquisition status (Purchased vs. Unpurchased)
+---
 
+## Key Insights 
+  - **Cybersecurity Basics** generated the highest revenue (**8K**).
+  - **USA & India** together account for more than half of total learners.
+  - **Purchased course ratio** is ~31%, indicating scope for marketing improvements.
+  - **Revenue growth** from 2024 to 2025 shows strong upward momentum.
+---
+## Features
+  - **Top Metrics:** Purchased vs. Unpurchased Courses, Total Learners, Total Revenue
+  - **Learner Demographics:** Country-wise distribution
+  - **Revenue Insights:** Course-wise and category-wise revenue breakdown
+  - **Course Engagement:** Learner counts per course and acquisition status
+  - **Yearly Trends:** Revenue hierarchy by year
+---
+**Future Enhancements** 
+  - Integrate real-time data pipelines.
+  - Add predictive analytics for learner acquisition. \
+  - Include learner feedback and ratings for qualitative insights.
+---
+<img width="997" height="627" alt="E-Learning Dashboard" src="https://github.com/user-attachments/assets/16da843e-f272-4853-a4e3-74f763287c33" />
+<img width="808" height="469" alt="E-Learning_Key Insights" src="https://github.com/user-attachments/assets/baf46fe1-0db1-4855-a32c-4d1299e13b31" />
 
-
+## Author
+- **Nemiga M.**  
+- 👨‍💻 Data Analyst
