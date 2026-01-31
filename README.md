@@ -70,14 +70,89 @@ The project leverages data from **3,000 patients** and provides insights into ge
        - Stress level impact
        - Lifestyle factors (exercise, smoking, alcohol)
     - Published interactive reports for decision-making.
-
+---
+## 🎯 Use Cases
+   - Detect **risk factors** for heart disorders using patient data.
+   - Monitor **patient vitals** (ECG, blood pressure, oxygen levels) via dashboards. 
+   - Support **personalized treatment plans** based on demographics and medical history. 
+   - Forecast **hospital admissions** for better resource allocation. 
+   - Provide **population-level insights** for public health planning.
+--- 
+Here’s the Heart Disorder dashboard:
 <img width="1347" height="902" alt="Heard Disorder Dashboard-1" src="https://github.com/user-attachments/assets/38106582-0b03-4bc0-ac88-8f64db15c53f" />
 <img width="1343" height="902" alt="Heard Disorder Dashboard-2" src="https://github.com/user-attachments/assets/7ab8127e-3f78-4480-82b6-c8a7074736f7" />
 <img width="1072" height="786" alt="Heard Disorder Dashboard-3" src="https://github.com/user-attachments/assets/5b72a849-f261-4910-b018-f936baab6bd1" />
 
 ---
-## Project:2 (SQL & Power BI)
-# 📊 E-Learning Platform Analysis Dashboard 
+## Project:2 (Power BI)
+# 🚚 Fleet Performance & Delivery Efficiency Analysis
+
+## 📖 Overview
+This repository provides a dataset and dashboard for analyzing **fleet performance** and **delivery efficiency** in logistics operations.  
+The project focuses on:
+- Vehicle utilization
+- Cost efficiency
+- Fuel consumption
+- Maintenance tracking
+- Delivery success rates
+
+---
+
+## 📊 Key Metrics
+- **On-Time Delivery by Destination**
+  - Delhi: 88
+  - Pune: 88
+  - Bangalore: 63
+  - Hyderabad: 50
+  - Kolkata: 50
+  - Chennai: 40
+  - Mumbai: 33
+
+- **Efficiency Indicators**
+  - Average Cost per km: **18.93**
+  - Average Fuel Efficiency: **11.52 km/L**
+  - On-Time Delivery Rate: **60%**
+
+- **Maintenance Costs (per vehicle type)**
+  - Truck: 14.19K
+  - Mini-Truck: 9.03K
+  - Van: 8.13K
+
+- **Driver Impact**
+  - Driver D03 improves likelihood of on-time delivery by **1.83x**
+
+---
+
+## 🗂 Dataset Schema
+| Column              | Description                                      |
+|---------------------|--------------------------------------------------|
+| Vehicle_ID          | Unique identifier for each vehicle               |
+| Vehicle_Type        | Truck, Van, Mini-Truck, EV                       |
+| Distance_km         | Distance traveled in km                          |
+| Fuel_Consumption    | Fuel used (liters/kWh)                           |
+| Fuel_Efficiency     | Efficiency (km/L or km/kWh)                      |
+| Maintenance_Cost    | Cost of servicing and repairs                    |
+| Downtime_hr         | Hours vehicle was unavailable                    |
+| Driver_ID           | Assigned driver                                  |
+| Operating_Cost/km   | Cost per kilometer                               |
+| Delivery_Status     | On-Time / Delayed                                |
+| Emissions_CO₂       | Environmental footprint (kg CO₂)                 |
+
+---
+
+## 🎯 Use Cases
+  - Fleet Managers: Optimize vehicle usage and reduce downtime.
+  - Logistics Analysts: Identify cost drivers and improve delivery efficiency.
+  - Sustainability Teams: Track emissions and evaluate EV adoption impact.
+  - Data Scientists: Build predictive models for delivery success and cost forecasting.
+
+---
+Here’s the fleet performance dashboard:
+
+<img width="996" height="860" alt="image" src="https://github.com/user-attachments/assets/957ae671-a244-4adf-8fc7-43a78422920d" />
+
+## Project:3 (SQL & Power BI)
+# 🎓 E-Learning Platform Analysis Dashboard 
 ## Overview 
 - This project provides a comprehensive **Power BI / Data Analytics dashboard** for monitoring and analyzing the performance of an online learning platform. It highlights key metrics such as course purchases, learner demographics, revenue generation, and category-wise insights.
 ---
@@ -116,9 +191,11 @@ The project leverages data from **3,000 patients** and provides insights into ge
   - Add predictive analytics for learner acquisition. \
   - Include learner feedback and ratings for qualitative insights.
 ---
+
+Here’s the E-Learning Platform dashboard:
 <img width="997" height="627" alt="E-Learning Dashboard" src="https://github.com/user-attachments/assets/16da843e-f272-4853-a4e3-74f763287c33" />
 <img width="808" height="469" alt="E-Learning_Key Insights" src="https://github.com/user-attachments/assets/baf46fe1-0db1-4855-a32c-4d1299e13b31" />
 
 ## Author
-- **Nemiga M.**  
-- 👨‍💻 Data Analyst
+  - **Nemiga M.**  
+  - ***Data Analyst***
